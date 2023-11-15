@@ -1,0 +1,11 @@
+195: 'ETH',
+    214: 'ETH',
+    165: 'ETH',
+    175: 'ETH',   # nova
+    183: 'ETH',   # linea
+    112: 'FTM',   # fantom
+    158: 'ETH',   # polygon zkEVM
+    153: 'CORE',  # Core
+    125: 'CELO',  # Celo
+    116: 'ONE',   # Harmony
+    159: 'CANTO', # Canto
